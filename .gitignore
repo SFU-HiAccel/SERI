@@ -1,0 +1,7 @@
+.idea
+fpga/src/build_dir*
+fpga/src/temp_dir*
+fpga/src/*.log
+fpga/src/*.out
+fpga/*.log
+fpga/*.out

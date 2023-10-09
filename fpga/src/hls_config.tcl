@@ -1,0 +1,3 @@
+config_compile -pragma_strict_mode=true
+config_compile -unsafe_math_optimizations
+config_array_partition -complete_threshold 1

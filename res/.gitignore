@@ -1,0 +1,6 @@
+# exclude reference ERI data (can be quite large)
+refs/*
+
+# make exception for tiny and small reference files to allow running simple verification without needing to generate or download the complete set
+!refs/ref_synmol_tiny*
+!refs/ref_synmol_small*
