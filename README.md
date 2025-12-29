@@ -50,4 +50,4 @@ The `-B` option is recommended as all build products must be regenerated for eac
 
 All the reference files for the `synmol_tiny` test molecule have been included in the repo. 
 However, due to the large file size of the outputs, the reference files for the larger versions are not included in this repo, but can be downloaded below:
-- [synmol_med reference files](https://drive.google.com/file/d/1jZnrk7hPuvyaXfPNYkfmxlnB2TfMU3Vk/view?usp=sharing) (13GB)
+- [synmol_med reference files](https://1sfu-my.sharepoint.com/:u:/g/personal/pstachur_sfu_ca/IQCkeST-tf5-S7k3H6FcskwJAVsMlKkWPaRVzpjmrHnxmR0?e=nxoK0G) (13GB)
